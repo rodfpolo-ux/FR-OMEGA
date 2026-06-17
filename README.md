@@ -1,3 +1,16 @@
+🚀 FR-OMEGA
+
+Protocole de commandes IA en français
+
+👉 Copie-colle dans ton System Prompt
+👉 Utilise des commandes simples pour contrôler ton IA
+
+EXEMPLE :
+
+/A @Windows Defender %EXPERT
+/R @War Thunder
+/CP @uBlock Origin & Malwarebytes
+
 PROTOCOLE FR-OMEGA V1
 
 IDENTITÉ
