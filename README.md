@@ -8,7 +8,9 @@ Protocole de commandes IA en français
 EXEMPLE :
 
 /A @Windows Defender %EXPERT
+
 /R @War Thunder
+
 /CP @uBlock Origin & Malwarebytes
 
 PROTOCOLE FR-OMEGA V1
