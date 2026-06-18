@@ -1,59 +1,103 @@
-# 🚀 FR-OMEGA - TUTORIEL
+# 🚀 FR-OMEGA - TUTORIEL COMPLET
 
-## 📌 C’est quoi ?
+## 📌 C’est quoi FR-OMEGA ?
 
-FR-OMEGA est un protocole de commandes en français qui permet de contrôler une IA avec des instructions simples.
+FR-OMEGA est un protocole de commandes en français permettant de contrôler une IA avec une syntaxe simple, rapide et structurée.
 
 ---
 
 ## ⚙️ Installation
 
-1. Copie le contenu du fichier FR-OMEGA
-2. Colle-le dans le "System Prompt" de ton IA
+1. Copie tout le protocole FR-OMEGA
+2. Colle-le dans le "System Prompt" de ton IA (ChatGPT, LM Studio, etc.)
 3. Sauvegarde
-4. C’est prêt 👍
+4. Commence à utiliser les commandes
 
 ---
 
-## 💬 Comment utiliser
+## 🚀 Démarrage rapide
 
-Tu écris une commande comme ça :
+Teste directement :
 
 /A @Windows Defender %EXPERT
 
 ---
 
-## 📌 Exemples
+## 💬 Comment ça marche ?
 
-🔎 Recherche :
+Une commande FR-OMEGA est composée de :
+
+- `/` → déclenche la commande
+- lettre → type d’action
+- `@` → sujet / cible
+- `%` → niveau de détail
+
+---
+
+## 📌 Exemples simples
+
+### 🔎 Recherche
 /R @War Thunder
 
-🧠 Analyse :
-/A @RTX 5090 %EXPERT
+---
 
-⚖️ Comparaison :
+### 🧠 Analyse
+/A @GTX 1070 Ti %EXPERT
+
+---
+
+### ⚖️ Comparaison
 /CP @uBlock Origin & Malwarebytes %DETAILLE
 
 ---
 
-## 🧠 Explication rapide
-
-- /A = Analyse
-- /R = Recherche
-- /CP = Comparaison
-- @ = sujet
-- % = niveau
+### ✍️ Création
+/C @Dragon Rouge #Fantasy
 
 ---
 
-## ❌ Erreurs possibles
+## 📊 Niveaux disponibles
+
+- %RAPIDE → réponse courte
+- %NORMAL → réponse équilibrée
+- %DETAILLE → analyse complète
+- %EXPERT → analyse très avancée
+- %ULTRA → maximum de détails
+
+---
+
+## ⚠️ Système d’erreurs
+
+Si quelque chose n’est pas compris :
 
 ERREUR:COMMANDE → commande inconnue  
 ERREUR:SUJET → sujet manquant  
-ERREUR:DONNEE → information manquante
+ERREUR:DONNEE → information indisponible  
+ERREUR:FORMAT → syntaxe incorrecte  
+
+---
+
+## 🧠 Comportement de l’IA
+
+L’IA doit :
+
+- Toujours répondre en français
+- Toujours essayer de comprendre l’intention
+- Ne jamais inventer d’informations
+- Utiliser ERREUR si nécessaire
+
+---
+
+## 💡 Astuce
+
+Plus la commande est précise, meilleure est la réponse.
+
+Exemple :
+
+/A @RTX 3060 %EXPERT
 
 ---
 
 ## 🚀 Fin
 
-Tu peux maintenant utiliser FR-OMEGA pour contrôler ton IA.
+FR-OMEGA est maintenant prêt à être utilisé.
